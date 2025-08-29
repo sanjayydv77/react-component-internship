@@ -1,6 +1,6 @@
-# React Component Library - Internship Assignment
+# React Component Library - Personal project.
 
-## 🎯 Assignment Complete - 100% Requirements Met
+## 🎯 Development Complete - 100% Requirements Met
 
 Professional React component library with TypeScript, featuring InputField and DataTable components.
 
