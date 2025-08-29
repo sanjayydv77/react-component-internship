@@ -5,7 +5,7 @@
 Professional React component library with TypeScript, featuring InputField and DataTable components.
 
 ## 🚀 Live Demo
-- **Demo URL**: [react-component-internship.vercel.app]
+- **Demo URL**: [https://react-component-internship.vercel.app/]
 - **GitHub**: [https://github.com/sanjayydv77/react-component-internship]
 
 ## ✅ Components Implemented
